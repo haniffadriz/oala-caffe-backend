@@ -29,3 +29,4 @@ mongose.connect('mongodb+srv://haniffdrz:hanif07032000@cluster0.jxfamyc.mongodb.
     })
 })
 .catch(err => console.log(err))
+
